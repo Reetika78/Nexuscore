@@ -1,6 +1,1 @@
-{
-  "version": 2,
-  "builds":[{ "src":"./middleware.ts,","use":"@verscel/node"}],
-   "routes":[{"src":"/(.*)","dest":"/"}]
-  }]
-}
+
